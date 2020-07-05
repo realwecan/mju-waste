@@ -20,7 +20,7 @@ Download the MJU-Waste dataset:
 https://drive.google.com/file/d/1o101UBJGeeMPpI-DSY6oh-tLk9AHXMny/view?usp=sharing
 
 The dataset is provided in PASCAL VOC [1] format.
-Object instance annotations in COCO [2] format is also available.
+Object instance annotations in COCO [2] format are also available.
 
 ### References
 
