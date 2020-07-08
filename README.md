@@ -6,7 +6,7 @@ The official [MJU-Waste dataset](https://github.com/realwecan/mju-waste) reposit
 
 Please cite the following paper if you decide to use this dataset:
 
-Tao Wang, Yuanzheng Cai, Lingyu Liang, Dongyi Ye. A Multi-Level Approach to Waste Object Segmentation. Sensors, 2020.
+Tao Wang, Yuanzheng Cai, Lingyu Liang, Dongyi Ye. [A Multi-Level Approach to Waste Object Segmentation](https://doi.org/10.3390/s20143816). Sensors 2020, 20(14), 3816.
 
 ### Download
 
